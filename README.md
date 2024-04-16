@@ -26,6 +26,8 @@ o conteúdo na memória.
 a um estado de erro (com mensagem no visor). Enquanto estiver nesse estado, a
 calculadora não responderá a nenhuma operação, exceto as teclas ON/OFF ou C.
 
+![image](https://github.com/MatheusZyzz/Calculadora-HTML-CSS-JS/assets/95886821/5b207103-ad10-4b21-b1aa-c836d81b3754)
+
  [ENG]
 - VISOR. An area where are visible: numbers involved in the calculation (10 characters,
 containing digits and/or decimal point); indicator that the memory function contains
